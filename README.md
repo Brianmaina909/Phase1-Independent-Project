@@ -27,7 +27,7 @@ Focus on conveying the practical implications or takeaways from your analysis.
 
 
 Limitations:
-The data used is from 10 years ago. In the future, web scrapping would be better to get the current info.
+The data used is from 3 years ago. In the future, web scrapping would be better to get the current info.
 
 Conclusion:
 This project sheds light on what genre to focus on as a budding Film Studio, considering the movies that are doing well already but further research is needed to explore additional variables. This analysis can be valuable for filmmakers, distributors, and movie aficionados alike.
