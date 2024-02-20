@@ -13,6 +13,6 @@ Results:
 
 Highlight your key findings and insights in a clear and concise manner. Use bullet points, graphs, or tables to summarize key trends or relationships. Avoid excessive technical jargon unless your target audience is highly technical. Focus on conveying the practical implications or takeaways from your analysis.
 
-Limitations: The data used is from 10 years ago. In the future, web scrapping would be better to get the current info.
+Limitations: The data used is from 5 years ago. In the future, web scrapping would be better to get the current info.
 
 Conclusion: This project sheds light on what genre to focus on as a budding Film Studio, considering the movies that are doing well already but further research is needed to explore additional variables. This analysis can be valuable for filmmakers, distributors, and movie aficionados alike.
